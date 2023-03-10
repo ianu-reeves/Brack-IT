@@ -1,0 +1,29 @@
+.error {
+    font: bold 12px Verdana, Verdana;
+    color: red;
+}
+
+.match-number{
+    font: 11px Consolas, Consolas;
+    fill: white;
+}
+
+.match-background {
+    fill: #ffb02f;
+    stroke: #0e0c21;
+}
+
+.match-competitor-seed-bg {
+    fill: darkgray;
+}
+
+.match-competitor-name {
+    font: 11px Consolas, Consolas;
+    fill: black;
+}
+
+.bracket-path {
+    stroke: white;
+    stroke-width: 2;
+    fill: none;
+}
